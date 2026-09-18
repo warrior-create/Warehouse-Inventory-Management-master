@@ -557,18 +557,9 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ## 🙏 Acknowledgments
 
-- **Eternal** for the problem statement
-- **Inter IIT Tech Meet 14.0** organizers
 - The ROS2 community
 - All open-source contributors
 
 ---
 
-<div align="center">
 
-**Not perfect. Not clean. But real engineering.** 🔧
-
-Made with ❤️ for Inter IIT Tech Meet 14.0
-
-</div>
-Eternal for the problem statement
